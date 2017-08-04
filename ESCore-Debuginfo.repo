@@ -1,0 +1,7 @@
+# ESCore.all repos
+
+[debuginfo]
+name=ESCore 7 x86_64 - debuginfo
+baseurl=http://mirror.easystack.io/ESCL/7.3.1611/debuginfo/x86_64/
+enabled=0
+gpgcheck=0
